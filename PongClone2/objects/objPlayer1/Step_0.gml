@@ -1,6 +1,6 @@
 /// @description Move P1 paddle
 
-mySpeed = 10
+mySpeed = 15
 
 if keyboard_check(ord("W"))
 {

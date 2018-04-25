@@ -17,12 +17,12 @@ if (x <= 0) || (x >= 1024) //0 is left 1024 is the right
 
 
 	//check if winning score
-	if (global.player1_score = 2) //set to 10 after test
+	if (global.player1_score = 10) //set to 10 after test
 	{
 		room_goto(rmP1Win)
 	}
 	
-	if (global.player2_score = 2)//do same here
+	if (global.player2_score = 10)//do same here
 	{
 		room_goto(rmP2Win)
 	}

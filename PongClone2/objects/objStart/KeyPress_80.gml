@@ -1,3 +1,3 @@
-/// @description Star the game
+/// @description Start the game
 
 room_goto_next();

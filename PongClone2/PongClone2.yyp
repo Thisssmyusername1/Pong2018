@@ -34,7 +34,7 @@
             "Key": "007be8a2-2308-432c-ba86-68122f31235d",
             "Value": {
                 "id": "cf48b319-e797-4238-8605-9186a45e08ff",
-                "resourcePath": "objects\\objsound\\objsound.yy",
+                "resourcePath": "objects\\objsound1\\objsound1.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -164,6 +164,14 @@
                 "id": "dd95b212-1bfd-471e-bf1a-ce2da03fd051",
                 "resourcePath": "views\\5e2cbff4-9a94-4ec5-97c7-1c03faa3688c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "65f3c5ba-f7e9-46df-bbe2-ad91ae558ecb",
+            "Value": {
+                "id": "2271b523-01bd-434b-95a6-34d6a649eb53",
+                "resourcePath": "sprites\\sprBackground\\sprBackground.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

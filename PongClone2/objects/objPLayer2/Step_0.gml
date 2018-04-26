@@ -1,6 +1,6 @@
 /// @description move P2 paddle
 
-mySpeed = 15
+mySpeed = 15.5
 
 if keyboard_check(vk_up)
 {
